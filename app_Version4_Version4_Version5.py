@@ -14,7 +14,7 @@ import io
 import csv
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+import plotly
 import plotly.graph_objects as go
 
 st.set_page_config(page_title="Kite For Life - Version 4 (Final)", layout="wide")
